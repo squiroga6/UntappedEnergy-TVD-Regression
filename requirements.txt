@@ -1,0 +1,10 @@
+autopep8==1.5
+lightgbm==2.3.1
+matplotlib==3.0.3
+numpy==1.16.2
+pandas==1.0.5
+pandas-datareader==0.7.0
+pandas-streaming==0.1.87
+pep8==1.7.1
+scikit-learn==0.22.2.post1
+scipy==1.2.1
